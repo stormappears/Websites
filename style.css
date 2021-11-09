@@ -1,0 +1,67 @@
+#BROZZERS{
+    font-family:Fjalla One;
+
+}
+
+#mainbaground{
+    background-color: rgb(255, 255, 255);
+}
+body{
+    background-color: rgb(250, 0, 0);
+    margin: 0;
+
+}
+/* */ 
+#introduction{
+
+    background-color: #7D88E3;
+    font-family: Fredoka One;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px ;
+    padding-left:10px;
+    padding-right:10px;
+}
+#container{
+    float: left;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    justify-content: center;
+    justify-content:flex-end;
+    align-items: center;
+   
+    
+}
+.container div{
+    
+    color: rgb(8, 1, 1);
+    width: 100px;
+    height: 250px;
+    width: 300px;
+    background-color:#565c903d;
+    text-align: center;
+    margin: 10px;
+    line-height:30px ;
+    border-radius: 5px;
+    border: 2px solid;
+    border-color: rgb(9, 27, 66);
+}
+
+/* */ 
+/* Images */ 
+
+/*Html*/ 
+/*
+#jsimg{
+position: relative;
+   right: 60px
+
+/*React*/ /*
+}
+#reactimg{
+    position: relative;
+   right: 60px
+
+}
+*/
